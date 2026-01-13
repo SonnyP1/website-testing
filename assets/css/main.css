@@ -3978,7 +3978,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: rgba(0, 255, 0, 0.9);
+		background-color: #a1d99b;
 	}
 
 	body.is-mobile.landing #page-wrapper {
