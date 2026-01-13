@@ -2703,15 +2703,15 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(0, 0, 0, 0.075);
+			background-color: #f5f5dc;
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.15);
+			background-color: #f5f5dc;
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.225);
+			background-color: #f5f5dc;
 		}
 
 		.spotlight:nth-child(4) {
@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #1b5e20;
 			color: #d3d4e4;
 		}
 
@@ -3139,7 +3139,8 @@ input, select, textarea {
 			}
 
 		.wrapper.style4 {
-			background-color: transparent;
+			background-color: #f5f5dc;
+			
 		}
 
 		.wrapper.style5 {
@@ -3890,7 +3891,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1d242a;
+		background-color: #4E342E;
 		text-align: center;
 	}
 
@@ -3969,7 +3970,6 @@ input, select, textarea {
 
 	body.landing #page-wrapper {
 		background-image: linear-gradient(to bottom, #a1d99b, #ffffff);
-		
 		background-attachment: scroll; /* Changed from fixed since there is no image to parallax */
 		background-position: top center;
 		background-repeat: no-repeat;
@@ -3978,7 +3978,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: #1b5e20;
+		background-color: #4E342E;
 	}
 
 	body.is-mobile.landing #page-wrapper {
@@ -3998,7 +3998,7 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-size: cover;
 		*/
-	}
+		}
 
 	body.is-mobile.landing #footer {
 		background-color: #1b5e20;
