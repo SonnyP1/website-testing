@@ -3978,11 +3978,12 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: #a1d99b;
+		background-color: #1b5e20;
 	}
 
 	body.is-mobile.landing #page-wrapper {
 		background: none;
+		
 	}
 
 	body.is-mobile.landing #banner,
@@ -4000,5 +4001,5 @@ input, select, textarea {
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #1d242a;
+		background-color: #1b5e20;
 	}
