@@ -3141,7 +3141,6 @@ input, select, textarea {
 		.wrapper.style4 {
 			background: linear-gradient(to top, #a1d99b, #ffffff);
 			text-align: center;
-			width: 110em;
 		}
 
 		.wrapper.style5 {
@@ -3990,7 +3989,7 @@ input, select, textarea {
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
 		background: linear-gradient(to top, #a1d99b, #ffffff);
-		width: 60em;
+		text-align: center;
 
 		/*
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
